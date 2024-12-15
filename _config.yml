@@ -34,8 +34,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # "https://scholar.google.com/citations?user=qlTjHpQAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : # "http://orcid.org/0000-0002-9675-8582"
+  orcid            : "http://orcid.org/0000-0002-9675-8582"
   semantic         : # URL
+  philpapers       : "https://philpeople.org/profiles/maddox-larson"
   pubmed           : # URL
   researchgate     : # "https://www.researchgate.net/profile/Maddox-Larson"
   scopus           : # URL
@@ -44,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "maddoxlarson"
+  github           : "maddoxlarson"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
