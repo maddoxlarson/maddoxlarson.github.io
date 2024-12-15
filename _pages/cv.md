@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+An up-to-date version of my curriculum vitae is available [here](/files/cv.pdf).
+
+<!-- 
 {% include base_path %}
 
 Education
@@ -61,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
