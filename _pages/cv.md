@@ -2,15 +2,16 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
 
-An up-to-date version of my curriculum vitae is available [here](/files/cv.pdf).
+An up-to-date version of my curriculum vitae is available [here](/files/cv.pdf). You may also see relevant experiences below.
 
-<!-- 
-{% include base_path %}
+<!-- {: .notice} -->
+
+<!-- {% include base_path %}
 
 Research interests
 ======
@@ -20,6 +21,8 @@ Research interests
 Education
 ======
 * B.A. in Philosophy, Creighton University, 2025
+* Assorted General Coursework (Non-Degree Seeking), Iowa Western Community College, 2019-2021
+* High School Diploma, Turing Academy for Arts & Sciences (Homeschool), 2021
 
 Publications
 ======
@@ -37,5 +40,5 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
- -->
+  {% endfor %}</ul> -->
+

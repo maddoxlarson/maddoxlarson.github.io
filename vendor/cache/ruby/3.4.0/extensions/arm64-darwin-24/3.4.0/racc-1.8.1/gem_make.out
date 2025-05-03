@@ -1,0 +1,18 @@
+current directory: /Users/maddoxlarson/Documents/maddoxlarson.github.io/vendor/cache/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/maddoxlarson/Documents/maddoxlarson.github.io/vendor/cache/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250113-10081-rpgq6i sitelibdir\=./.gem.20250113-10081-rpgq6i clean
+
+current directory: /Users/maddoxlarson/Documents/maddoxlarson.github.io/vendor/cache/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250113-10081-rpgq6i sitelibdir\=./.gem.20250113-10081-rpgq6i
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/maddoxlarson/Documents/maddoxlarson.github.io/vendor/cache/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250113-10081-rpgq6i sitelibdir\=./.gem.20250113-10081-rpgq6i install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250113-10081-rpgq6i/racc
+
+current directory: /Users/maddoxlarson/Documents/maddoxlarson.github.io/vendor/cache/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250113-10081-rpgq6i sitelibdir\=./.gem.20250113-10081-rpgq6i clean

@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Maddox Larson"
 title_separator          : "-"
 name                     : &name "Maddox Larson"
-description              : &description "Senior Philosophy Major"
+description              : &description "Online academic portfolio for Maddox Larson"
 url                      : https://maddoxlarson.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maddoxlarson/maddoxlarson.github.io"
@@ -24,17 +24,17 @@ author:
   avatar           : "profile.jpeg"
   name             : "Maddox Larson"
   pronouns         : # "he/him"  
-  bio              : "Senior Philosophy Major"
-  location         : "Omaha, NE, USA"
-  employer         : "Creighton University"
+  bio              : "Philosophy Ph.D. Student"
+  location         : "Evanston, IL, USA"
+  employer         : "Northwestern University"
   uri              : # URL
-  email            : "maddoxlarson@creighton.edu" 
+  email            : "maddoxlarson@u.northwestern.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # "https://scholar.google.com/citations?user=qlTjHpQAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : "http://orcid.org/0000-0002-9675-8582"
+  orcid            : #"http://orcid.org/0000-0002-9675-8582"
   semantic         : # URL
   philpapers       : "https://philpeople.org/profiles/maddox-larson"
   pubmed           : # URL
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "maddoxlarson"
+  github           : #"maddoxlarson"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # "maddox.k.larson"
   lastfm           : # Username
-  linkedin         : # "maddoxlarson"
+  linkedin         : "maddoxlarson"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -77,8 +77,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  # books:
-  #   title: 'Books'
+  books:
+    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
