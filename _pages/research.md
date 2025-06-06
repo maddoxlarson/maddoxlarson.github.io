@@ -12,4 +12,4 @@ author_profile: false
 
 <!-- <q>Philosophy aims at the logical clarification of thoughts. Philosophy is not a body of doctrine but an activity.</q>---<cite>Ludwig Wittgenstein, *Tractatus Logico-Philosophicus* (1921), &sect;4.112</cite> -->
 
-Epistemology
+<!-- Epistemology -->

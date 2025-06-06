@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently finishing a Bachelor of Arts degree in philosophy with minors in economics and mathematics from Creighton University in Omaha, NE. In September, I will begin pursuing my Ph.D. in philosophy at Northwestern University in Evanston, IL.
+In September, I will begin pursuing my Ph.D. in philosophy at Northwestern University in Evanston, IL. Before Northwestern, I earned a Bachelor of Arts degree in philosophy, with minors in economics and mathematics and a concentration in undergraduate research, from Creighton University in Omaha, NE.
 
 <!-- I'm a first-year Ph.D. student in the Department of Philosophy at Northwestern University in Evanston, IL. I hold a Bachelor of Arts, *cum laude*, in philosophy with minors in economics and mathematics from Creighton University in Omaha, NE. -->
 
-My primary research interests are in **epistemology** (incl. social, virtue, zetetic) and **philosophy of science** (incl. social science). In epistemology, I focus on belief, rationality, normativity, and responsibility. Specfically, I'm interested in how groups and communities influence our standards for evidence and justification when forming beliefs. In philosophy of science, I'm interested in the structure of inquiry and role of models in scientific investigation. I also have secondary interests in philosophy of mind, philosophy of language, and social & political philosophy.
+My primary research interests are in **epistemology**. I'm interested in how groups, communities, and institutions influence our judgements about evidence and justification when forming beliefs, attaining knowledge, or pursuing understanding. I have previously published on ... I also have secondary interests in general philosophy of science, philosophy of mind/language, and social & political philosophy.
+<!-- I focus on belief, rationality, normativity, and responsibility. Specfically, -->
 
 <!-- I'm also passionate about getting undergraduate students involved in philosophy. While at Creighton, I served as the Co-Chair of the [Midwest Undergraduate Philosophy Conference](https://sites.google.com/view/midwest-undergrad-philosophy/home "Midwest Undergraduate Philosophy Conference") Organizing Committee and helped host the most competitive conference in its 25 year history. At Northwestern, I am involved with the Minorities and Philosophy chapter. Resources for all undergraduate students interested in pursuing philosophy are available [here](/more/). -->
 
