@@ -7,5 +7,5 @@ excerpt: 'In this article, I argue that responsible knowers are responsive to cr
 date: 2025-03-01
 venue: 'The Philosophy, Politics, and Economics Review'
 paperurl: 'https://philpapers.org/archive/LARRTR.pdf'
-citation: 'Larson, Maddox. (2024). &quot;Responsibility to Reflect: Reflection as Epistemic Responsibility in Democracy.&quot; <i>The Philosophy, Politics, and Economics Review</i>. 4: 5-14.'
+citation: 'Larson, Maddox. (2025). &quot;Responsibility to Reflect: Reflection as Epistemic Responsibility in Democracy.&quot; <i>The Philosophy, Politics, and Economics Review</i>. 4: 5-14.'
 ---

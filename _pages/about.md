@@ -7,15 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-In September, I will begin pursuing my Ph.D. in philosophy at Northwestern University in Evanston, IL. Before Northwestern, I earned a Bachelor of Arts degree in philosophy, with minors in economics and mathematics and a concentration in undergraduate research, from Creighton University in Omaha, NE.
+I am a first-year Ph.D. student in the [Department of Philosophy](https://philosophy.northwestern.edu/) at Northwestern University. I hold a Bachelor of Arts in philosophy from Creighton University in Omaha, NE.
 
-<!-- I'm a first-year Ph.D. student in the Department of Philosophy at Northwestern University in Evanston, IL. I hold a Bachelor of Arts, *cum laude*, in philosophy from Creighton University in Omaha, NE. -->
+My primary research interests are in **social & political epistemology**. Generally, what role do (and should) social forces and political instituions play in belief-formation and pursuit of higher-order epistemic goods like knowledge, understanding, and wisdom? Specifically, how do varied institutional structures and their associated epistemic norms (e.g., *democratic* vs *capitalistic* epistemic norms) impede or support our ability to pursue epistemic goods? I aim to address these questions by leveraging insights from contemporary research in cognitive science, behavioral and social psychology, and sociology.
 
-My primary research interests are in **epistemology**. I'm interested in how groups, communities, and institutions influence our judgments about evidence and justification when forming beliefs, attaining knowledge, or pursuing understanding. I also have secondary interests in general philosophy of science, philosophy of mind/language, and social & political philosophy.
+Previously, my scholarship has followed two stands of thought at the intersection of epistemology and social/political philosophy: (i) how social forces, such as racial inequality and political polarization, impact credibility judgements (e.g., [Graham et al. 2023](/publication/2023-07-01-black-trust)); and (ii) the impact that social/political institutions have on our epistemic conduct (see [Larson 2024](/publication/2023-07-01-black-trust), [Larson 2025](/publication/2025-03-01-responsibility-to-reflect)).
 
-<!-- I'm also passionate about getting undergraduate students involved in philosophy. While at Creighton, I served as the Co-Chair of the [Midwest Undergraduate Philosophy Conference](https://sites.google.com/view/midwest-undergrad-philosophy/home "Midwest Undergraduate Philosophy Conference") Organizing Committee and helped host the most competitive conference in its 25 year history. At Northwestern, I am involved with the Minorities and Philosophy chapter. Resources for all undergraduate students interested in pursuing philosophy are available [here](/more/). -->
+Outside the academy, I enjoy watching TV sitcoms and superhero movies, reading literary fiction, and trying new food. I also try to write public philosophy essays from time to time, published on my [Medium page](https://medium.com/@maddoxlarson).
 
-<!-- Outside of philosophy, I enjoy reading literary fiction, watching TV sitcoms, traveling, trying new food, and completing computer programming challenges on [Project Euler](https://projecteuler.net/profile/tinygenius.png). -->
-
-You may contact me at [MaddoxLarson (at) creighton (dot) edu](mailto:maddoxlarson@creighton.edu).
-<!-- You may contact me at [MaddoxLarson (at) u (dot) northwestern (dot) edu](mailto:maddoxlarson2030@u.northwestern.edu). -->
+You can contact me at [MaddoxLarson (at) u (dot) northwestern (dot) edu](mailto:maddoxlarson2030@u.northwestern.edu).

@@ -23,18 +23,18 @@ author:
   # Biographic information
   avatar           : "profile.jpeg"
   name             : "Maddox Larson"
-  pronouns         : # "he/him"  
-  bio              : "Philosophy Undergrad" # PhD Student
-  location         : "Omaha, NE, USA" # Chicago, IL, USA
-  employer         : "Creighton University" # Northwestern University
+  # pronouns         : ""
+  bio              : "Philosophy PhD Student"
+  location         : "Chicago, IL"
+  employer         : "Northwestern University"
   uri              : # URL
-  email            : "maddoxlarson@creighton.edu" # maddoxlarson@u.northwestern.edu
+  email            : "maddoxlarson@u.northwestern.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # "https://scholar.google.com/citations?user=qlTjHpQAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/0000-0002-9675-8582"
+  orcid            : "http://orcid.org/0000-0002-9675-8582"
   semantic         : # URL
   philpapers       : "https://philpeople.org/profiles/maddox-larson"
   pubmed           : # URL
@@ -79,6 +79,10 @@ author:
 publication_category:
   books:
     title: 'Books'
+  volumes:
+    title: 'Edited Volumes'
+  chapters:
+    title: 'Chapters'
   manuscripts:
     title: 'Journal Articles'
   translations:
