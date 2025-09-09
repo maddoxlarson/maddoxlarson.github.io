@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-An up-to-date version of my curriculum vitae is available [here](/files/cv.pdf). You may also see relevant experiences below.
+An up-to-date version of my curriculum vitae is available [here](/files/cv.pdf). 
+<!-- You may also see relevant experiences below. -->
 
 <!-- {: .notice} -->
 
