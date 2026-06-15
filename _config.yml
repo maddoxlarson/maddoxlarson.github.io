@@ -85,6 +85,8 @@ publication_category:
     title: 'Chapters'
   manuscripts:
     title: 'Journal Articles'
+  inprogress:
+    title: 'Works in Progress'
   translations:
     title: 'Translations'
   reviews:

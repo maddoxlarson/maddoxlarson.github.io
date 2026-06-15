@@ -8,5 +8,5 @@ date: 2023-07-01
 venue: 'Social Philosophy Today'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://philpapers.org/archive/LAREVA.pdf'
-citation: 'Graham, Kevin M., Anaja Arthur, Ali Griswold, Beau Kearns, Quinlyn Klade, Maddox Larson, and Suraya Wayne. (2023). &quot;Black trust and white allies: Insights from slave narratives.&quot; <i>Social Philosophy Today</i>. 39: 183-195.'
+# citation: 'Graham, Kevin M., Anaja Arthur, Ali Griswold, Beau Kearns, Quinlyn Klade, Maddox Larson, and Suraya Wayne. (2023). &quot;Black trust and white allies: Insights from slave narratives.&quot; <i>Social Philosophy Today</i>, 39: 183-195.'
 ---
